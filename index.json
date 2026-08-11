@@ -1,0 +1,15 @@
+{
+  "$schema": "https://schemas.agentskills.io/discovery/0.2.0/schema.json",
+  "skills": [
+    {
+      "name": "codex-delegate",
+      "type": "archive",
+      "description": "Run Codex CLI as a headless delegate. Use when the user names Codex CLI, says \"ask Codex\", wants `codex exec`, wants a Codex second opinion, or compares coding agents. Do NOT use for interactive sessions, other CLIs, or tasks not meant for delegation.",
+      "url": "https://raw.githubusercontent.com/letya999/codex-delegate/dev/dist/codex-delegate.zip",
+      "digest": "sha256:957cc3d220a0bc069d46841861e63e4ba47ff2667a567434a937da542f8f91fd",
+      "repository": "https://github.com/letya999/codex-delegate",
+      "license": "MIT",
+      "publisher": "Artem Letyushev"
+    }
+  ]
+}
