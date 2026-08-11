@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Delegate"
+  short_description: "Delegate tasks to Codex headlessly"
+  default_prompt: "Use $codex-delegate to delegate this task to Codex headlessly and return the verified result."
