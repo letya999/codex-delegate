@@ -6,7 +6,7 @@
       "type": "archive",
       "description": "Run Codex CLI as a headless delegate. Use when the user names Codex CLI, says \"ask Codex\", wants `codex exec`, wants a Codex second opinion, or compares coding agents. Do NOT use for interactive sessions, other CLIs, or tasks not meant for delegation.",
       "url": "https://raw.githubusercontent.com/letya999/codex-delegate/dev/dist/codex-delegate.zip",
-      "digest": "sha256:df53f6b0ceac22d956180bbbfb2691d3efeb72eaa3ccc396e1b15a33a7271231",
+      "digest": "sha256:89f077cdfff346129fcb0648eb61261e9f15d3f226d3d33d3d669a146565d830",
       "repository": "https://github.com/letya999/codex-delegate",
       "license": "MIT",
       "publisher": "Artem Letyushev"

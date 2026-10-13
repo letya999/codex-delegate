@@ -1,4 +1,13 @@
 {
   "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
-  "skills": ["codex-delegate"]
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Delegates",
+      "description": "Run Codex CLI as a headless delegate.",
+      "skills": [
+        "codex-delegate"
+      ]
+    }
+  ]
 }
